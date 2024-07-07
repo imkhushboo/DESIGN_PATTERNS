@@ -1,2 +1,4 @@
-package Proxy_Design_Pattern;public class EmployeeDo {
+package Proxy_Design_Pattern;
+
+public class EmployeeDo {
 }
